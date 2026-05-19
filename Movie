@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/or066gPy8Bs6mYmubis366YgSg0.jpg" group-title="Action", Avatar: The Way of Water (2022)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8GgZ8fWmZ96660v9Sg8OfFC0y26.jpg" group-title="Sci-Fi", Interstellar (2014)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q6726EW57877gTM9fV4sOmEMvY4.jpg" group-title="Action", Oppenheimer (2023)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow3wq89wM8qdSR7g09scE72gftB.jpg" group-title="Action", Top Gun: Maverick (2022)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gEU2vSscwUcmDcACXz6Gv1g8YwG.jpg" group-title="Sci-Fi", Dune: Part Two (2024)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
